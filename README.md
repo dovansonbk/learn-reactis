@@ -1,9 +1,12 @@
-# 20240805 ReactJS: 04-04 Container và Presentational component
+# 20240805 
 
+## ReactJS: 04-04 Container và Presentational component
 
+## ReactJS: 04-07 Phân tích cây component 3ReactJS: 04-07 Phân tích cây component 3
 
+## ReactJS: 05-01 Props là gì? Composition là gì?
 
-
+## ReactJS: 05-02 Props type checking
 
 
 
