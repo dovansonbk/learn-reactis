@@ -1,3 +1,18 @@
+# ReactJS: 04-04 Container và Presentational component
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
